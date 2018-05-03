@@ -302,6 +302,7 @@ body{
     overflow: hidden;
     color: white;
     border-radius: 10px;
+    pointer-events: none !important;
 }
 
 .choiceBooth{
@@ -431,7 +432,7 @@ body{
 	border-radius: 25px;
 	background: #000;	
 	border-radius:50%;
-	border: 1px solid #008800;	
+	border: 1px solid #008800;
 }
 
 .noHover{
@@ -455,6 +456,7 @@ body{
 	height: 20px;
 	padding: 20px;
 	color: #000;
+    pointer-events: none !important;
 }
 
 .answer{
