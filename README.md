@@ -6,13 +6,10 @@ Version 1
 Alpha Bet is a Web Application I created in order to brush up on my html, css, and javascript skills.
 This version makes extensive use of a javascript via jQuery in order to create a dyanamic interface. 
 
-My end Goal is to incorporate this into a database backend.
-Create Highscore DB table, an Accounts Table, and augment the main gameplay with multiplayer functionality. 
-
 Alpha-Bet is a game in which the user picks a position out of a grid of choices. 
-The User guess both a the location of the next letter, and the letter.
+The User guess both the location of the next chosen square and he letter that will appear there.
 
-Version 1. Automatically makes the user guess The correct next letter.
+In Version 1. The user only has to guess the correct location.
 But Different versions, or different game modes will play by different rules. 
 
 Here is a video of the Gameplay:
@@ -21,3 +18,8 @@ Here is a video of the Gameplay:
 ...
 Note the grey column highlights that automatically detect
 the location of user input.
+
+The locations of the next chosen block is chosen using the
+Midpoint circle algorithm, in a grid of 5 by 5
+https://en.wikipedia.org/wiki/Midpoint_circle_algorithm
+
