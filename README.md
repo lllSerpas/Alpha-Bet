@@ -15,8 +15,8 @@ The User guess both a the location of the next letter, and the letter.
 Version 1. Automatically makes the user guess The correct next letter.
 But Different versions, or different game modes will play by different rules. 
 
-You can Play A live Version at :
-
-http://www.nettrance.com
-
-- 4/29/2018 Luis Serpas
+Here is a video of the Gameplay:
+![Alphabet JQuery based Game Demo](AlphaBet/Alphabet_gameplay.gif)
+...
+Note the grey column highlights that automatically detect
+the location of user input.
