@@ -16,7 +16,7 @@ Version 1. Automatically makes the user guess The correct next letter.
 But Different versions, or different game modes will play by different rules. 
 
 Here is a video of the Gameplay:
-![Alphabet JQuery based Game Demo](AlphaBet/Alphabet_gameplay.gif)
+![Alphabet JQuery based Game Demo](Alphabet_gameplay.gif)
 ...
 Note the grey column highlights that automatically detect
 the location of user input.
