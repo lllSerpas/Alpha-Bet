@@ -3,8 +3,8 @@ Bingo Themed, Web App , Created with HTML, CSS, JS, and jQuery
 
 Version 1
 
-Alpha Bet is a Web Application I created in order to brush up on my html, css, and javascript skills.
-This version makes extensive use of a javascript via jQuery in order to create a dyanamic interface. 
+Alpha Bet is a Web Application I created using html, css, and javascript.
+In this version i make extensive use of the jQuery framework to create a dyanamic interface. 
 
 Alpha-Bet is a game in which the user picks a position out of a grid of choices. 
 The User guess both the location of the next chosen square and he letter that will appear there.
